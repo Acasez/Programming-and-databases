@@ -1,4 +1,4 @@
-ASP CORE is framework to set up dynamic websites with C#.
+ASP CORE is framework to set up dynamic websites with [[C Sharp]]
 
 
 

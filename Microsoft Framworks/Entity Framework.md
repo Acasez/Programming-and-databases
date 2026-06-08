@@ -2,11 +2,10 @@
 Entity Framework Core can be used used to connect [[Databases]] to [[ASP NET]]
 Entity Framework was built on [[NET Core]], but is now separated from it since EF Core version 6 and onwards. The current version is EF Core 10, but many application/sites still use older versions as updating takes times. 
 
-EFC is an ORM, an Object Relational Mapper, a library that implements the object-relational mapping technique. ORMs handles mapping between table formats and graphs.
+EFC is an ORM, an **Object Relational Mapper**, a library that implements the object-relational mapping technique. ORMs handles mapping between table formats and graphs.
 
-ORM allows you work with classes/objects in code instead of having to write SQL against tables.
+ORM allows you work with classes/objects in code instead of having to write [[SQL]] against tables.
 The written C# gets converted to SQL used on the table.
-
 ### EF 10
 Entity Classes in [[C Sharp]]
 dB Context as the central point for the databases and manages communication with the database.

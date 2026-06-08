@@ -94,12 +94,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/C Sharp.md",
+                "file": "Databases/Databases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C Sharp"
+              "title": "Databases"
             }
           }
         ],
@@ -268,23 +268,24 @@
   },
   "active": "20c6b2461b642d61",
   "lastOpenFiles": [
+    "Microsoft Framworks/ADO NET.md",
+    "Microsoft Framworks/ASP NET.md",
+    "Microsoft Framworks/Entity Framework.md",
+    "Databases/Database Types Mindmap.canvas",
+    "Techniques",
+    "Microsoft Framworks/NET Core.md",
     "Programming Languages/SQL.md",
     "Programming Languages/C Sharp.md",
-    "Microsoft Framworks/Entity Framework.md",
     "Programming Obsidian Vault",
-    "Microsoft Framworks/NET Core.md",
     "APIs/Endpoints.md",
     "APIs",
     "APIs/API.md",
-    "Dependency Injection.md",
+    "Techniques/Dependency Injection.md",
     "Web Development",
     "Databases",
     "Microsoft Framworks",
     "Programming Languages",
     "Pasted image 20260603155112.png",
-    "Microsoft Framworks/ADO NET.md",
-    "Microsoft Framworks/ASP NET.md",
-    "Databases/Mindmap.canvas",
     "Databases/Databases.md",
     "Programming Obsidian",
     "Pasted image 20260603110027.png",

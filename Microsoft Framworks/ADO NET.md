@@ -1,2 +1,6 @@
-Framework to interact with databases in [[NET Core]]. 
+Framework to interact with [[Databases]] in [[NET Core]]. 
 
+
+
+https://thisvsthat.io/adonet-vs-aspnet
+https://en.wikipedia.org/wiki/ADO.NET
