@@ -1,6 +1,6 @@
 ### Overview
 Entity Framework Core can be used used to connect [[Databases]] to [[ASP NET]]
-Entity Framework was built on [[NET Core]], but is now separated from it since EF Core version 6 and onwards. The current version is EF Core 10, but many application/sites still use older versions as updating takes times. 
+Entity Framework was built on [[NET Core]] as a layer above [[ADO NET]], but is now separated from .Net core since EF Core version 6 and onwards. The current version is EF Core 10, but many application/sites still use older versions as updating takes time. 
 
 EFC is an ORM, an **Object Relational Mapper**, a library that implements the object-relational mapping technique. ORMs handles mapping between table formats and graphs.
 
