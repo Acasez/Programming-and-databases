@@ -1,8 +1,8 @@
-ASP CORE is framework to set up dynamic websites with [[C Sharp]]
+ASP CORE is framework to set up [[Dynamic Websites]] with [[C Sharp]] using [[Web API]]
 
 
 
-You can connect it to [[Databases]] by using [[Entity Framework]]
+You can connect it to [[Databases]] by using [[Entity Framework Core]]
 
 
 

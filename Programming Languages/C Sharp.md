@@ -1,2 +1,2 @@
-C# (C Sharp) is a general purpose programming language
+C# (C Sharp) is a general purpose programming language.  
 

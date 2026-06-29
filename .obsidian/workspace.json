@@ -77,33 +77,62 @@
             }
           },
           {
-            "id": "8c8b352b8290af69",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20260603155112.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260603155112"
-            }
-          },
-          {
             "id": "20c6b2461b642d61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Microsoft Framworks/ADO NET.md",
+                "file": "Web Development/JWT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ADO NET"
+              "title": "JWT"
+            }
+          },
+          {
+            "id": "6264f595015bd3d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Architecture/System Architecture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "System Architecture"
+            }
+          },
+          {
+            "id": "964c92805cbff135",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Techniques/Dependency Injection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dependency Injection"
+            }
+          },
+          {
+            "id": "92b4f845f1a44d0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "APIs/Web API.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Web API"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -266,29 +295,43 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "20c6b2461b642d61",
+  "active": "2e138c036e8798b0",
   "lastOpenFiles": [
-    "Microsoft Framworks/ASP NET.md",
-    "Microsoft Framworks/ADO NET.md",
-    "Databases/Databases.md",
+    "APIs/Versioning.md",
+    "Programming Languages/JavaScript.md",
+    "Techniques/Data Transfer Objects.md",
+    "Techniques/Dependency Injection.md",
+    "Web Development/Dynamic Websites.md",
+    "Web Development/Security.md",
+    "Web Development/JWT.md",
+    "Pasted image 20260624105306.png",
+    "System Architecture",
+    "System Architecture/System Architecture.md",
+    "Pasted image 20260623111507.png",
+    "APIs/Web API.md",
     "Databases/Database Types Mindmap.canvas",
-    "APIs/Endpoints.md",
-    "Microsoft Framworks/Entity Framework.md",
-    "Microsoft Framworks/NET Core.md",
+    "Pasted image 20260603155112.png",
+    "Pasted image 20260611104033.png",
+    "Pasted image 20260603110027.png",
+    "Web Development/Endpoints.md",
+    "Microsoft Framworks/Entity Framework Core.md",
+    "Microsoft Framworks/ADO NET.md",
+    "Web Development/Static Websites.md",
+    "Web Development/Web Development.md",
+    "Microsoft Framworks/ASP NET.md",
     "Programming Languages/C Sharp.md",
+    "APIs/API.md",
+    "Databases/Databases.md",
+    "Microsoft Framworks/NET Core.md",
     "Techniques",
     "Programming Languages/SQL.md",
     "Programming Obsidian Vault",
     "APIs",
-    "APIs/API.md",
-    "Techniques/Dependency Injection.md",
     "Web Development",
     "Databases",
     "Microsoft Framworks",
     "Programming Languages",
-    "Pasted image 20260603155112.png",
     "Programming Obsidian",
-    "Pasted image 20260603110027.png",
     "Welcome.md"
   ]
 }

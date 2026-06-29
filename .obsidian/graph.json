@@ -32,7 +32,7 @@
       "query": "path:\"Web Development\"  ",
       "color": {
         "a": 1,
-        "rgb": 6084188
+        "rgb": 2256162
       }
     },
     {
@@ -48,18 +48,25 @@
         "a": 1,
         "rgb": 10837206
       }
+    },
+    {
+      "query": "path:\"System Architecture\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
     }
   ],
-  "collapse-display": true,
-  "showArrow": false,
+  "collapse-display": false,
+  "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 0.479209979209979,
+  "repelStrength": 10.0831600831601,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.965556045656673,
+  "linkDistance": 124,
+  "scale": 1.401982897776101,
   "close": false
 }

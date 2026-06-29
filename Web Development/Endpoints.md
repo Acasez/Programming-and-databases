@@ -1,6 +1,8 @@
+Endpoints are used in server side [[Web API]]
+
 https://www.geeksforgeeks.org/node-js/what-is-an-api-endpoint/
 
-*Every [[API]] endpoint represents a specific resource or functionality provided by the API, allowing clients to interact with it.*
+*Every api endpoint represents a specific resource or functionality provided by the API, allowing clients to interact with it.*
 
 - *It defines what operation or data the endpoint provides.*
 - *Developers can identify available endpoints through API documentation*n.

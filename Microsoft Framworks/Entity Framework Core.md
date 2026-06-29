@@ -4,16 +4,15 @@ Entity Framework was built on [[NET Core]] as a layer above [[ADO NET]], but is 
 
 EFC is an ORM, an **Object Relational Mapper**, a library that implements the object-relational mapping technique. ORMs handles mapping between table formats and graphs.
 
-ORM allows you work with classes/objects in code instead of having to write [[SQL]] against tables.
-The written C# gets converted to SQL used on the table.
+ORM allows you work with classes/objects in code instead of having to write [[SQL]] against tables. The written [[C Sharp]] gets converted to [[SQL]] used on the database.
 ### EF 10
-Entity Classes in [[C Sharp]]
-dB Context as the central point for the databases and manages communication with the database.
-dbSet for tables/collections
-Fluent API and Data Annotations for model config
-LINQ for queries
-Migrations for creation and updating of databases
-EF Core is directed connected to your code, less like a separate model like previous version
+- Entity Classes in [[C Sharp]]
+- dB Context as the central point for the databases and manages communication with the database.
+- dbSet for tables/collections
+- Fluent API and Data Annotations for model config
+- LINQ for queries
+- Migrations for creation and updating of databases
+- EF Core is directed connected to your code, less like a separate model like previous version
 ### Ways to work with Entity Framework
 #### Database first
 *Old model, possible but rarely used*

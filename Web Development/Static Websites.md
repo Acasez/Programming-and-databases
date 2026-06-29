@@ -1,0 +1,1 @@
+Static websites are websites that are built as stored. Static websites can be hosted for free via services like Github Pages. Static Websites can still use [[JavaScript]] for interactivity. 
