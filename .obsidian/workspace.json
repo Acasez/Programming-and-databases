@@ -311,6 +311,12 @@
   },
   "active": "2e138c036e8798b0",
   "lastOpenFiles": [
+    "Microsoft Framworks/xUnit.md",
+    "Production/Unit Testing.md",
+    "Databases/Databases.md",
+    "Databases/Database Types Mindmap.canvas",
+    "System Architecture/System Architecture.md",
+    "Microsoft Framworks/LINQ.md",
     "Production/CI CD.md",
     "Production/Docker.md",
     "Programming Languages/C Sharp.md",
@@ -331,10 +337,8 @@
     "Web Development/JWT.md",
     "Images/Pasted image 20260624105306.png",
     "System Architecture",
-    "System Architecture/System Architecture.md",
     "Images/Pasted image 20260623111507.png",
     "APIs/Web API.md",
-    "Databases/Database Types Mindmap.canvas",
     "Images/Pasted image 20260603155112.png",
     "Pasted image 20260611104033.png",
     "Web Development/Endpoints.md",
@@ -344,16 +348,12 @@
     "Web Development/Web Development.md",
     "Microsoft Framworks/ASP NET.md",
     "APIs/API.md",
-    "Databases/Databases.md",
-    "Microsoft Framworks/NET Core.md",
     "Techniques",
-    "Programming Languages/SQL.md",
     "Programming Obsidian Vault",
     "APIs",
     "Web Development",
     "Databases",
     "Microsoft Framworks",
-    "Programming Languages",
-    "Welcome.md"
+    "Programming Languages"
   ]
 }

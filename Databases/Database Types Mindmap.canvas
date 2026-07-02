@@ -1,10 +1,5 @@
 {
 	"nodes":[
-		{"id":"8287ecc660231c24","type":"text","text":"ASP .Net Core","x":-905,"y":-343,"width":250,"height":60},
-		{"id":"e0421c4e8602edee","type":"text","text":"APIs","x":-780,"y":-470,"width":80,"height":50},
-		{"id":"38e93cc40cb064f9","type":"text","text":"RESTful","x":-600,"y":-560,"width":250,"height":59},
-		{"id":"7d6bcd65f6354a42","type":"text","text":"ASP .Net Core WEB API","x":-540,"y":-368,"width":250,"height":50},
-		{"id":"5349df41917440d0","type":"text","text":"Endpoints","x":-1205,"y":-450,"width":250,"height":60},
 		{"id":"bbc3c1b9564e0967","type":"text","text":"Flexible, easy mapping to programming","x":-1797,"y":723,"width":250,"height":55,"color":"4"},
 		{"id":"6b526dde6945f42e","type":"text","text":"###### **Document Database**","x":-1672,"y":663,"width":210,"height":60,"color":"3"},
 		{"id":"12df1e1b1dba07a8","type":"text","text":"Product catalogs, user profile","x":-1587,"y":603,"width":250,"height":60,"color":"5"},
@@ -54,8 +49,6 @@
 		{"id":"3ef93b17e39750d2","type":"text","text":"Horizontal scalability","x":-795,"y":420,"width":169,"height":60,"color":"4"}
 	],
 	"edges":[
-		{"id":"a583f6ae0a71d69a","fromNode":"e0421c4e8602edee","fromSide":"right","toNode":"38e93cc40cb064f9","toSide":"left"},
-		{"id":"ab19dc4f9c968c38","fromNode":"8287ecc660231c24","fromSide":"right","toNode":"7d6bcd65f6354a42","toSide":"left"},
 		{"id":"617918d219e3d254","fromNode":"7d98fc9642724d92","fromSide":"bottom","toNode":"ac1827342eef1d84","toSide":"right"},
 		{"id":"0c23aab00e3112bb","fromNode":"7d98fc9642724d92","fromSide":"right","toNode":"d5779e6b15d0108b","toSide":"left"},
 		{"id":"32015f252fd47262","fromNode":"ac1827342eef1d84","fromSide":"left","toNode":"6364b60e4871e29c","toSide":"right"},

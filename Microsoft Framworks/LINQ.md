@@ -1,0 +1,1 @@
+LINQ (Language Integrated Query) is a framework that adds tools to handle data querying to .Net languages like [[C Sharp]], adding [[SQL]] like expressions to the language.
