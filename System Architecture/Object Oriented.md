@@ -1,0 +1,1 @@
+Object Oriented Programming (OOP) is a style of programming focused on building modular, reusable, and maintainable code. OOP techniques include encapsulation, inheritance, polymorphism, and abstraction.

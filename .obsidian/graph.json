@@ -55,18 +55,25 @@
         "a": 1,
         "rgb": 6053078
       }
+    },
+    {
+      "query": "path:Production  ",
+      "color": {
+        "a": 1,
+        "rgb": 16688375
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.479209979209979,
   "repelStrength": 10.0831600831601,
   "linkStrength": 1,
   "linkDistance": 124,
-  "scale": 1.401982897776101,
+  "scale": 1.4019828977761013,
   "close": false
 }
