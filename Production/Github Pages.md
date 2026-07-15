@@ -1,0 +1,1 @@
+Github pages is a free hosting platform for [[Static Websites]] using [[GitHub]]

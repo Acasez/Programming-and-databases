@@ -1,4 +1,4 @@
-[[API]] versioning is done to able to continue improve on it without breaking clients using it. 
+[[API]] versioning is done to able to continue improve on it without breaking clients using it during the [[Development Process]]
 
 Unlike normal code which the client can choose to update when it fits them, public facing APi's are already used in production for the users and refactoring them may break things for the clients. 
 

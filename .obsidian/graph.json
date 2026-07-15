@@ -69,18 +69,25 @@
         "a": 1,
         "rgb": 14352563
       }
+    },
+    {
+      "query": "path:Gamedev  ",
+      "color": {
+        "a": 1,
+        "rgb": 16746793
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 2.97785862785863,
   "collapse-forces": false,
-  "centerStrength": 0.479209979209979,
-  "repelStrength": 10.0831600831601,
+  "centerStrength": 0.658004158004158,
+  "repelStrength": 12.6611226611227,
   "linkStrength": 1,
   "linkDistance": 124,
-  "scale": 1.4019828977761026,
+  "scale": 1.000000000000002,
   "close": false
 }

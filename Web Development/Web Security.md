@@ -1,5 +1,3 @@
-https://en.wikipedia.org/wiki/JSON_Web_Token
-
 There are many ways to set up security. identity, and authorization in [[Web Development]]. 
 
 ## JWT

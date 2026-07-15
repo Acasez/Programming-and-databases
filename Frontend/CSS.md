@@ -1,1 +1,1 @@
-CSS (Cascading Style Sheets) is a style sheet language used to add design and layout to web pages. CSS is used together with [[HTML]] and [[JavaScript]] in [[Web Development]]
+CSS (Cascading Style Sheets) is a style sheet language used to add design and layout to web pages. CSS is used together with [[HTML]] and [[Programming Languages/JavaScript]] in [[Web Development]]

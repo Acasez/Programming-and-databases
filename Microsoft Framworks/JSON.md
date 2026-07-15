@@ -1,0 +1,1 @@
+JavaScript Object Notation (JSON) is a file format used to store information in a human readable way. Its often used in [[Web Development]], and read and edited with [[JavaScript]]

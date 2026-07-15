@@ -1,6 +1,6 @@
 A web API is an [[API|application programming interface]] for [[Web Development]], typically for [[Dynamic Websites]]
 
-A server-side web API consists of one or more publicly exposed [[Endpoints]] to a defined request–response message system, typically expressed in JSON or XML by means of an HTTP-based web server.*
+A server-side web API consists of one or more publicly exposed [[Endpoints]] to a defined request–response message system, typically expressed in [[JSON]] or XML by means of [[HTTP Communication]]
 ## API Styles
 ### Minimal API
 Minimal API's are simple tools that put the endpoints directly in the Program.cs class 
