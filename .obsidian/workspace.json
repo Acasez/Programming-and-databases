@@ -39,98 +39,70 @@
             "id": "f2414465e4954e57",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frontend/React/React Routing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "React Routing"
+            }
+          },
+          {
+            "id": "05e93778df98cfbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Architecture/UML.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UML"
+            }
+          },
+          {
+            "id": "c5e74898372e14d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Architecture/CRUD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CRUD"
+            }
+          },
+          {
+            "id": "bb1949d7c77f9570",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking/Routers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Routers"
+            }
+          },
+          {
+            "id": "2e2afb4cc83dc3d0",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "36f58995081a1249",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Microsoft Framworks/ASP NET.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ASP NET"
-            }
-          },
-          {
-            "id": "fcbcd0b26d1cdd5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Microsoft Framworks/ADO NET.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ADO NET"
-            }
-          },
-          {
-            "id": "20c6b2461b642d61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/JWT.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "JWT"
-            }
-          },
-          {
-            "id": "6264f595015bd3d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "System Architecture/System Architecture.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "System Architecture"
-            }
-          },
-          {
-            "id": "964c92805cbff135",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Techniques/Dependency Injection.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dependency Injection"
-            }
-          },
-          {
-            "id": "92b4f845f1a44d0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "APIs/Web API.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Web API"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -150,7 +122,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -293,36 +267,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f2414465e4954e57",
+  "active": "bb1949d7c77f9570",
   "lastOpenFiles": [
-    "Gamedev/Unity.md",
-    "Programming Languages/C Sharp.md",
-    "Gamedev",
-    "Web Development/Web Security.md",
-    "Techniques/Exception Handling.md",
-    "Frontend/React.md",
-    "APIs/Versioning.md",
-    "Frontend/Vite.md",
-    "Programming Languages/TypeScript.md",
-    "Frontend/NPM.md",
-    "Production/Github Pages.md",
-    "Production/GitHub.md",
-    "Production/Git.md",
-    "Techniques/HTTP Communication.md",
-    "Microsoft Framworks/JSON.md",
-    "APIs/Web API.md",
-    "Programming Languages/JavaScript.md",
-    "Programming Languages/Java.md",
-    "Techniques/Arrow Functions.md",
-    "Frontend/Tailwind.md",
-    "Frontend/Bootstrap.md",
+    "Networking/Network Security.md",
+    "Networking/Packet Delay.md",
+    "Networking/Packet Loss.md",
+    "Networking/Routers.md",
+    "Networking/Protocols.md",
+    "Networking/Packet.md",
+    "Networking/Circuit Switching.md",
+    "Networking/Layering Networks.md",
+    "Networking/Network Core.md",
+    "Networking/Unguided Media.md",
+    "Networking/The Internet.md",
+    "System Architecture/UML.md",
+    "Production/Requirement Specification.md",
+    "System Architecture/Activity Diagram.md",
+    "System Architecture/Class Diagram.md",
+    "System Architecture/System Architecture.md",
+    "Production/User Stories.md",
+    "Pasted image 20260918112328.png",
     "Production/CI CD.md",
-    "Production/Development Process.md",
-    "Web Development/Static Websites.md",
-    "Frontend/HTML.md",
-    "Frontend/CSS.md",
+    "Production/Use Cases.md",
+    "Production/Scrum.md",
+    "Production/Tasks.md",
+    "Production/Kanban Board.md",
+    "Programming Languages/C Sharp.md",
+    "Programming Languages/C++.md",
+    "Gamedev/Godot.md",
+    "Techniques/Data Transfer Objects.md",
+    "Pasted image 20260917155647.png",
+    "Networking",
+    "Frontend/React",
+    "Gamedev",
     "Frontend",
-    "System Architecture/Object Oriented Programming.md",
     "Databases/Database Types Mindmap.canvas",
     "Images/Pasted image 20260603110027.png",
     "Images",
@@ -336,8 +314,6 @@
     "Pasted image 20260611104033.png",
     "Techniques",
     "Programming Obsidian Vault",
-    "APIs",
-    "Web Development",
-    "Databases"
+    "APIs"
   ]
 }

@@ -53,7 +53,7 @@
       "query": "path:\"System Architecture\"  ",
       "color": {
         "a": 1,
-        "rgb": 6053078
+        "rgb": 789686
       }
     },
     {
@@ -64,30 +64,44 @@
       }
     },
     {
-      "query": "path:Frontend  ",
-      "color": {
-        "a": 1,
-        "rgb": 14352563
-      }
-    },
-    {
       "query": "path:Gamedev  ",
       "color": {
         "a": 1,
         "rgb": 16746793
       }
+    },
+    {
+      "query": "path:Frontend/React  ",
+      "color": {
+        "a": 1,
+        "rgb": 10455807
+      }
+    },
+    {
+      "query": "path:Frontend  ",
+      "color": {
+        "a": 1,
+        "rgb": 15876863
+      }
+    },
+    {
+      "query": "path:Networking  ",
+      "color": {
+        "a": 1,
+        "rgb": 12770559
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 2.97785862785863,
+  "lineSizeMultiplier": 5,
   "collapse-forces": false,
   "centerStrength": 0.658004158004158,
   "repelStrength": 12.6611226611227,
   "linkStrength": 1,
   "linkDistance": 124,
-  "scale": 1.000000000000002,
+  "scale": 1.9655560456566823,
   "close": false
 }

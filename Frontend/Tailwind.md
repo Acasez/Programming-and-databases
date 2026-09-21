@@ -2,7 +2,9 @@ Tailwind is a utility first [[CSS]] framework. Instead of creating predefined cl
 
 Currently the most popular CSS  framework
 
-Automatically scans your files and creates a css file containing only the classes you actually use.
+It automatically scans your files and creates a css file containing only the classes you actually use.
+
+https://tailwindcss.com/
 
 | Advantages                                          | Disadvantages                              |
 | --------------------------------------------------- | ------------------------------------------ |

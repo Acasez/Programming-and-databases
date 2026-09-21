@@ -3,3 +3,5 @@ Unit testing is a method where induvial components or methods are tested in isol
 Mocking simulates dependencies when testing to isolate the unit.
 
 [[xUnit]] is a popular testing framework for .Net applications. 
+
+[[Vitest]] is an Vite addon for testing frontend 

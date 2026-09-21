@@ -1,0 +1,1 @@
+C++ is an older [[Object Oriented Programming]] language used in a lot of software, though rarely in newer projects.

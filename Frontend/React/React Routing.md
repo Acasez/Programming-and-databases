@@ -1,0 +1,1 @@
+[[React]] routing is the most way react serve different pages as part of the page.

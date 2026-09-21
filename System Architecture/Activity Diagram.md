@@ -1,0 +1,1 @@
+An activity diagram is a flowchart to track the activities (processes) happening when the application is running.  

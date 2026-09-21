@@ -1,0 +1,1 @@
+[[React]] components are the building blocks of react. They can be use to serve different pages using [[React Routing|routing]]. 

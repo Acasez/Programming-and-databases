@@ -2,4 +2,4 @@ Data Transfer Objects or DTO's are objects used in [[API|API's]] to transfer dat
 
 DTOs can therefore be used to hide secure data, validate data entry and optimize code by only sending relevant data. 
 
-DTOs can be used to combine data, Customer + Order into CustomerOrderDTO. 
+DTOs can be used to combine data, for example Customer + Order into CustomerOrderDTO. 

@@ -1,0 +1,1 @@
+Python is a [[Object Oriented Programming]] language that focuses on code readability 

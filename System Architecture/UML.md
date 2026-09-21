@@ -1,0 +1,1 @@
+Uniform Modeling Language (UML) is a standardized visual modeling language known by many developers during the [[Design and Planning|design and planning]] phase of production. 

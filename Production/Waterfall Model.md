@@ -1,0 +1,1 @@
+The waterfall model is an old method of [[Development Process]] that is based on moving to a predefined clear goal. The waterfall is rarely used today, many developers having moved to the more adaptable [[Agile]] model. 

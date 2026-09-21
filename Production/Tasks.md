@@ -1,0 +1,1 @@
+A task is a singular part of a [[User Stories]] that can be done during a single [[Scrum]]. Tasks are often posted on a [[Kanban Board]]. 

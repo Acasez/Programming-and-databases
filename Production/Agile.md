@@ -1,0 +1,1 @@
+The agile [[Development Process]] is an adaptive [[Development Process]], built in [[Scrum|scrums]] of one or two weeks. 
