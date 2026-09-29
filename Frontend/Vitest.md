@@ -1,4 +1,4 @@
-Vitest is a [[Vite]] addon for doing [[Unit Testing]] using [[JavaScript]]/Typescript.
+Vitest is a [[Vite]] addon for doing [[Unit Testing]] using [[JavaScript]]/[[TypeScript]].
 
 It uses "it" statements to test statements
 

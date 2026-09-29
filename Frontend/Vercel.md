@@ -1,0 +1,1 @@
+Vercel is the developers behind [[NextJS]]. They also provide a [[Static Websites]] web host with the same new, optimized for NextJS.

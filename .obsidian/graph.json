@@ -85,6 +85,13 @@
       }
     },
     {
+      "query": "path:Networking/Protocols  ",
+      "color": {
+        "a": 1,
+        "rgb": 11140810
+      }
+    },
+    {
       "query": "path:Networking  ",
       "color": {
         "a": 1,
@@ -102,6 +109,6 @@
   "repelStrength": 12.6611226611227,
   "linkStrength": 1,
   "linkDistance": 124,
-  "scale": 1.9655560456566823,
+  "scale": 1.000000000000009,
   "close": false
 }

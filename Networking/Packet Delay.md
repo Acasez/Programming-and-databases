@@ -1,4 +1,4 @@
-Packet delay is the time it takes for a [[Packet]] to travel to and from a [[Routers|router]] and is split into for categories. 
+Packet delay is the time it takes for a [[Packet]] to travel to and from a [[Routers|router]] and is split into for categories. If packet delay is long queuing delay is often the cause, and may lead to [[Packet Loss]] if the router is overloaded
 
 
 | Name             | Time         | Step | Key   |

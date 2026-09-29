@@ -3,7 +3,7 @@ Next adds on React to make things easier
 
 NextJS creates routing from files, so you don't need to route manually.
 
-Due to how NextJS projects work, hosting a NextJS page on google sites, loses most of the functionality. NextJS is developed by Vercel which has its own free server hosting . 
+Due to how NextJS projects work, hosting a NextJS page on GitHub pages, makes it lose most of the functionality. NextJS is developed by [[Vercel]] which has its own free server hosting . 
 
 
 | Topic         | React                  | Next.JS                     |

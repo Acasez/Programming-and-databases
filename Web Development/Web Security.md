@@ -1,4 +1,4 @@
-There are many ways to set up security. identity, and authorization in [[Web Development]]. 
+There are many ways to set up security. identity, and authorization in [[Web Development]] and to help with [[Network Security]]
 
 ## JWT
 [[JWT]] or JSON Web Token are often used.  

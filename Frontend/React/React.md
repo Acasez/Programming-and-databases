@@ -2,5 +2,5 @@ React is a open source [[JavaScript]] library to make designing user interfaces 
 
 React is used to develop single page applications, and uses [[React Routing]] to serve "different" pages as part of the page.
 
-React files have the tsx extension. 
+"React files" are JavaScript XML files with the extension jsx, or tsx for TypeScript. 
 
