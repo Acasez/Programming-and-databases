@@ -1,3 +1,8 @@
+---
+aliases:
+  - Streaming
+  - streaming
+---
 
 Temporal
 

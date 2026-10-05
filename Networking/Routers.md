@@ -1,3 +1,8 @@
+---
+aliases:
+  - router
+  - routers
+---
 The [[Network Core]] layer of [[The Internet]] is composed of a mesh of routers
 Routers provide two key actions to send [[Packet]] to their correct destination.
 

@@ -1,4 +1,4 @@
-Hypertext Transfer Protocol is one of the most common protocols of the [[Application Layer|application layer]] of the internet, used on most web pages. **HTTPS** Hypertext Transfer Protocol Secure, is a newer variant with more security features. HTTP forms URL, Uniform Resource Locator
+Hypertext Transfer Protocol is one of the most common [[protocols]] of the [[Application Layer|application layer]] of the internet, used on most web pages. **HTTPS** Hypertext Transfer Protocol Secure, is a newer variant with more security features. HTTP forms URL, Uniform Resource Locator
 
 HTTP is stateless, it maintains no information about past requests. States are complex
 

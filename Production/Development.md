@@ -1,0 +1,1 @@
+The development step of the [[Development Process]]. Generally the longest step, which goes to from [[Design and Planning]] to [[Unit Testing]]

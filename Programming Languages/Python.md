@@ -1,1 +1,1 @@
-Python is a [[Object Oriented Programming]] language that focuses on code readability 
+Python is a [[Object Oriented Programming|object oriented programming]] language that focuses on code readability 
