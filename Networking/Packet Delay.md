@@ -1,4 +1,4 @@
-Packet delay is the time it takes for a [[Packet]] to travel to and from a [[Routers|router]] and is split into for categories. If packet delay is long queuing delay is often the cause, and may lead to [[Packet Loss]] if the router is overloaded
+Packet delay is the time it takes for a [[Packet|packet]] to travel to and from a [[Routers|router]] and is split into for categories. If packet delay is long queuing delay is often the cause, and may lead to [[Packet Loss]] if the router is overloaded
 
 
 | Name             | Time         | Step | Key   |
@@ -10,7 +10,7 @@ Packet delay is the time it takes for a [[Packet]] to travel to and from a [[Rou
 
 Routers are very fast, Nodal Processing from the router is very fast measured in microseconds.
 
-Queuing delay. Depends on the congestion level of the router. 
+Queuing delay. Depends on the congestion level of the router. The speed of the routers switching fabric determines how fast the router switches between packets from different input ports
 a: average packet arrival rate.
 L: packet length (bits)
 R: link bandwidth (bit transmission rate)

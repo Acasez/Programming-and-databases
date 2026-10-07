@@ -18,21 +18,63 @@
             }
           },
           {
-            "id": "af3251f3c3c1f5b0",
+            "id": "e220a3ffcdb13e3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Protocols/QUIC.md",
+                "file": "Networking/Packet Delay.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "QUIC"
+              "title": "Packet Delay"
             }
           },
           {
-            "id": "87913c8d06a3b6d7",
+            "id": "9919e0d62318cc66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking/Reliable Data Transfer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reliable Data Transfer"
+            }
+          },
+          {
+            "id": "420fcdb845d769ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking/Client Server Architecture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Client Server Architecture"
+            }
+          },
+          {
+            "id": "c710dc6eb6069395",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking/Protocols/UDP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UDP"
+            }
+          },
+          {
+            "id": "e8db785fb85e18cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -46,119 +88,76 @@
             }
           },
           {
-            "id": "1bddaf314effaf56",
+            "id": "41aa58c783198b8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Techniques/Data Transfer Objects.md",
+                "file": "System Architecture/Design Patterns.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Transfer Objects"
+              "title": "Design Patterns"
             }
           },
           {
-            "id": "7d93d1027b4651de",
+            "id": "c0a4fac3bccb8e70",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Application Layer.md",
+                "file": "System Architecture/System Architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Application Layer"
+              "title": "System Architecture"
             }
           },
           {
-            "id": "b3aaca6e6dab55fe",
+            "id": "976bdb86d38fd0b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Protocols/Protocols.md",
+                "file": "System Architecture/Design Patterns.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Protocols"
+              "title": "Design Patterns"
             }
           },
           {
-            "id": "5728e1be4cc15e54",
+            "id": "e3fb12fe13c34f62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Languages/Python.md",
+                "file": "Networking/Link Layer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python"
+              "title": "Link Layer"
             }
           },
           {
-            "id": "2e2afb4cc83dc3d0",
+            "id": "d7e58fbb5f80633c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Architecture/Boochs Metrics.md",
+                "file": "Databases/Databases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Boochs Metrics"
-            }
-          },
-          {
-            "id": "7cef6501cf156286",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/HTTP Response.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HTTP Response"
-            }
-          },
-          {
-            "id": "53a9192d29aa3e11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/JWT.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "JWT"
-            }
-          },
-          {
-            "id": "e2e066686e7f2784",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/HTTP Response.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HTTP Response"
+              "title": "Databases"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -323,44 +322,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "af3251f3c3c1f5b0",
+  "active": "43af76dd7e8106da",
   "lastOpenFiles": [
-    "Networking/Application Layer.md",
-    "Networking/Protocols/QUIC.md",
-    "Networking/Transport Layer.md",
-    "Networking/Web Caches.md",
-    "Networking/Video Streaming.md",
-    "Networking/Unguided Media.md",
-    "Networking/The Internet.md",
-    "Networking/TCP Slow Start.md",
-    "Networking/Socket Programming.md",
-    "Networking/Socket.md",
-    "Networking/Network Core.md",
-    "Networking/Multiplexing.md",
-    "Networking/Reliable Data Transfer.md",
-    "Networking/Peer to peer architecture.md",
+    "Networking/Packet Delay.md",
     "Networking/Packet Loss.md",
-    "Networking/Routers.md",
-    "Networking/Packet.md",
-    "Networking/Network Security.md",
+    "Networking/Reliable Data Transfer.md",
+    "Networking/Transport Layer.md",
     "Networking/Layering Networks.md",
-    "Networking/HTTP Response.md",
-    "Networking/HTTP Request.md",
-    "Networking/Congestion Control.md",
+    "Networking/Client Server Architecture.md",
+    "Networking/Protocols/UDP.md",
+    "Networking/Protocols/TCP.md",
+    "System Architecture/Design Patterns.md",
+    "Networking/Socket Programming.md",
+    "Databases/Databases.md",
+    "System Architecture/Boochs Metrics.md",
+    "Programming Languages/Python.md",
+    "Networking/Protocols/Protocols.md",
+    "Networking/Link Layer.md",
+    "System Architecture/System Architecture.md",
+    "Networking/CDN.md",
+    "Networking/Network Layer.md",
+    "Networking/Application Layer.md",
+    "Networking/The Internet.md",
+    "Networking/Routers.md",
+    "Networking/IP Address.md",
+    "Programming Languages/C Sharp.md",
+    "Networking/Subnet.md",
+    "Networking/Protocols/IP.md",
+    "Pasted image 20261006095640.png",
+    "Networking/Packet.md",
+    "Pasted image 20261006092448.png",
+    "Pasted image 20261006092220.png",
     "Pasted image 20261005101316.png",
     "Pasted image 20261005100928.png",
-    "Networking/CDN.md",
-    "Networking/Circuit Switching.md",
-    "Networking/Client Server Architecture.md",
-    "Networking/Protocols/Protocols.md",
     "Pasted image 20261005095212.png",
     "Pasted image 20261005095013.png",
     "Pasted image 20261005094111.png",
     "Pasted image 20261005094057.png",
     "Pasted image 20261005093634.png",
-    "Pasted image 20261005092437.png",
-    "Pasted image 20260930142530.png",
-    "Pasted image 20260930141045.png",
     "Untitled.canvas",
     "Networking/Protocols",
     "Networking",

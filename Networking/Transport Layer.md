@@ -4,7 +4,7 @@ aliases:
   - transport layer
   - Transport
 ---
-The transport layer is second highest [[Layering Networks|layer]] of [[The Internet]], underneath the [[Application Layer|application layer]]. 
+The transport layer is second highest [[Layering Networks|layer]] of The Internet, underneath the [[Application Layer|application layer]]. 
 
 The quality, timing, security, and quantity of data transfer required depends on the application. We want [[Reliable Data Transfer|reliable data transfer]], but in reality that is hard. Doing an "[[Handshake|handshake]]" is one way to make the data transfer more reliable. 
 

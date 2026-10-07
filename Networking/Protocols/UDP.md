@@ -2,7 +2,7 @@ The User Datagram Protocol is one of two [[Protocols]] on the [[Transport Layer|
 
 The UDP doesn't set up a direct connection between client and server, no "handshake". The sender attaches the IP address and port to each [[Packet]].
 
-UDP is more expandable than [[TCP]]
+UDP is more expandable than TCP
 Unreliable, datagram oriented service
 
 | Name                | TCP                           | UDP                      |

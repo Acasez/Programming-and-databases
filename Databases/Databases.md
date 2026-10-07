@@ -1,7 +1,7 @@
 ### Overview
 
 https://estuary.dev/blog/types-of-databases-with-examples/
-*A **database** is a system that stores, organizes, and retrieves data efficiently, usually through software called a **Database Management System (DBMS)**.*
+*A **database** is a system that stores, organizes, and retrieves [[Data|data]] efficiently, usually through software called a **Database Management System (DBMS)**.*
 
 *In technical terms:*
 

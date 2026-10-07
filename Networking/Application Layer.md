@@ -3,7 +3,7 @@ aliases:
   - Application
   - application layer
 ---
-The application [[Layering Networks|layer]] is the topmost layer of [[The Internet]]. It uses [[HTTP]] its main protocol
+The application [[Layering Networks|layer]] is the topmost layer of the internet. It uses [[HTTP]] its main protocol
 
 There are two main methods of application layer communication [[Client Server Architecture]] and [[Peer to peer architecture]]. Applications send messages from a [[Socket|socket]]
 
