@@ -1,3 +1,8 @@
+---
+aliases:
+  - endpoint
+  - endpoints
+---
 Endpoints are used in server side [[Web API]]
 
 https://www.geeksforgeeks.org/node-js/what-is-an-api-endpoint/

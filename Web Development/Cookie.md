@@ -1,3 +1,8 @@
+---
+aliases:
+  - cookie
+  - cookies
+---
 Cookies are a way to store state data for a client on a web site. Cookies come from [[HTTP Response]]s and are part of the [[Client Server Architecture]]
 
 Cookies can for example be used for

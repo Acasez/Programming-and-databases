@@ -1,0 +1,1 @@
+Production and support is the last phase of the [[Development]], after the application has been designed, programmed and tested. Applications in production are often still supported and updated, sometimes for many years or decades. 

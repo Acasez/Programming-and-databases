@@ -15,7 +15,7 @@ Not centralized, due to risk of failure and scale.
 |            |                                  |                          |
 
 Provides
-- hostname to IP address.
+- hostname to [[IP Address|IP address]].
 - host aliasing
 - mail server aliases
 - load distribution

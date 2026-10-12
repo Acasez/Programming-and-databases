@@ -5,8 +5,7 @@ There are many ways to set up security. identity, and authorization in [[Web Dev
 Scales well, best for microservices
 Hard to revoke, payload is visible
 ## Session Cookie
-Server creates a session on login- They are easy to create and revoke, but don't scale well across services whiteout a shared store. Best for traditional web apps with a single 
-backend.
+Server creates a session on login, as a [[Cookie|cookie]].  They are easy to create and revoke, but don't scale well across services whiteout a shared store. Best for traditional web apps with a single backend.
 ## OAuth 2.0
 Login via an authorization server.
 Allows for "Login with Google" and similar. 

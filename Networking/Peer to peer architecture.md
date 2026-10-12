@@ -1,4 +1,9 @@
-Rarer from of communication on the [[Application Layer|application layer]]. More complex but more scalable without dedicated infrastructure. Used for file sharing (torrenting), voice calls (skype)
+---
+aliases:
+  - Peer to Peer
+  - peer to peer
+---
+Rarer from of communication on the [[Application Layer|application layer]]. More complex but more scalable without dedicated infrastructure. Used for file sharing (torrenting), voice calls (skype). Peers are intermittently connected and change [[IP Address|IP addresses]]
 
 No always on server
 End system communicate directly

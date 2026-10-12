@@ -12,7 +12,7 @@ TCP provides reliable, byte stream.
 | Security            | No                    | No                   |
 | Speed               | Slower                | Faster               |
 | Data treated as     | Continues byte stream | Independent messages |
-| Used by             | HTTP, HTTPS, SMTP     | DNS, VoIP, Streaming |
+| Used by             | SMTP                  | VoIP, Streaming      |
 | Expandable          | No                    | Yes                  |
 TCP segments track ACK for the purpose of [[Reliable Data Transfer|reliable data transfer]]. 
 

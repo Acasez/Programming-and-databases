@@ -4,7 +4,7 @@ aliases:
   - network layer
   - Network
 ---
-The network layer is the third [[Layering Networks|layer]] of The Internet, below the [[Transport Layer|transport]] layer. Most of the network layer uses the [[IP]] protocol
+The network layer is the third [[Layering Networks|layer]] of The Internet, below the [[Transport Layer|transport]] layer. Almost all  of the network layer uses the [[IP]] protocol
 
 Network layer protocols in every internet device.
 
@@ -19,7 +19,7 @@ The network layer can be split up into two parts, the Data Plane and the Control
 |            | Routing algorithms |
 |            |                    |
 
-Forwarding Table VS Software-Defined Networking (SDN)
+Forwarding Table VS Software-Defined Networking (SDN), [[Programmable Networks]]
 Routing algorithms in every router vs remote controllers
 
 

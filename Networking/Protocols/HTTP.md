@@ -6,6 +6,7 @@ HTTP uses [[TCP]], creating a TCP connection to port 80.
 
 Non-Persistent HTTP vs Persistent HTTP
 One object sent over TCP vs Multiple objects sent over TCP connection.
+Non-persistent HTTP response time = 2[[Round Trip Time|RTT]]+ file transmission time
 
 | Non-Persistent HTTP      | Persistent HTTP                           |
 | ------------------------ | ----------------------------------------- |
@@ -23,7 +24,7 @@ Increased flexibility at server in sending objects to client.
 Breaks up larger objects into frames to do so.
 Server can figure out to send smaller objects first.
 -Still operates over a single TCP connection and has no encryption.
-### HTTP/3 (2022)
+### [[HTTP3|HTTP/3]] (2022)
 Adds security, 
 Handles error and congestion control per object
 Uses QUIC + UDP instead of TCP
