@@ -8,18 +8,16 @@ The network layer is the third [[Layering Networks|layer]] of The Internet, belo
 
 Network layer protocols in every internet device.
 
-[[Routers]] operate on the network layer
-
 The network layer can be split up into two parts, the Data Plane and the Control Plane
 
-| Data Plane | Control Plane      |
-| ---------- | ------------------ |
-| Local      | Network wide       |
-| Forwarding | Routing            |
-|            | Routing algorithms |
-|            |                    |
+| [[Data Plane]] | [[Control Plane]]  |
+| -------------- | ------------------ |
+| Local          | Network wide       |
+| Forwarding     | Routing            |
+|                | Routing algorithms |
+|                |                    |
 
-Forwarding Table VS Software-Defined Networking (SDN), [[Programmable Networks]]
+Forwarding Table VS Software-Defined Networking (SDN), Programmable Networks
 Routing algorithms in every router vs remote controllers
 
 

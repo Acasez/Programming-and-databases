@@ -1,4 +1,4 @@
-Domain Name System (DNS) is the part of [[The Internet]]s [[Application Layer|application layer]] that maps between host names and IP addresses. DNS often leads to [[HTTP]] addresses, but is a separate thing from them. 
+Domain Name System (DNS) is the part of [[The Internet]]s [[Application Layer|application layer]] that maps between host names and [[IP Address|IP addresses]]. DNS often leads to [[HTTP]] addresses, but is a separate thing from them. 
 
 The DNS is a distributed database implemented in the hierarchy of many name servers. 
 Core Internet function, implemented in the application layer
@@ -15,7 +15,7 @@ Not centralized, due to risk of failure and scale.
 |            |                                  |                          |
 
 Provides
-- hostname to [[IP Address|IP address]].
+- hostname to IP address
 - host aliasing
 - mail server aliases
 - load distribution
@@ -29,10 +29,6 @@ Root servers
 			Local DNS server
 
 The DNS Root server is a core function of the internet. Responsibility of ICANN (Internet Corporation for Assigned Names and Numbers)
-
-...
-
-...
 
 Local DNS is where the clients sends DNS queries. 
 ---

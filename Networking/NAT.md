@@ -2,7 +2,7 @@ Network address translation compresses IP addresses to get more address space, w
 
 Save [[IP Address|IP address]], 
 Can save local addresses without notifying whole internet
-Can change ISP without notifying local devices
+Can change [[ISP]] without notifying local devices
 Provides [[Network Security|security benefits]] as outside routers won't know addresses of local devices. 
 
 Sometimes controversial, as it causes routers to handle PORT numbers which should be handled by transport.

@@ -6,10 +6,10 @@ aliases:
 The [[Network Layer|network layer]] of [[The Internet]] is composed of a mesh of routers
 Routers provide two key actions to send [[Packet|packets]] to their correct destination.
 
-| Name                 | Type   | Desc                                                       |
-| -------------------- | ------ | ---------------------------------------------------------- |
-| Forwarding/Switching | Local  | Move packets from router input link to correct output link |
-| Routing              | Global | Determining source to destination path by packets          |
+| Name                 | Type   | Desc                                                       | Plane                      |
+| -------------------- | ------ | ---------------------------------------------------------- | -------------------------- |
+| Forwarding/Switching | Local  | Move packets from router input link to correct output link | Data                       |
+| Routing              | Global | Determining source to destination path by packets          | [[Control Plane\|Control]] |
 
 Routing is deciding the whole route, forwarding is going the correct way at each router.
 Trip planning vs intersections.

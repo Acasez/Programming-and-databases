@@ -11,66 +11,70 @@
             "id": "43af76dd7e8106da",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "ffb773f48c868f6b",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Production/Kubernetes.md",
+                "file": "Networking/Layers/Link Layer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kubernetes"
+              "title": "Link Layer"
             }
           },
           {
-            "id": "17a01eeaa2ad0b32",
+            "id": "906716878ca9c8d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Production/Kubernetes.md",
+                "file": "Networking/Protocols/TCP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kubernetes"
+              "title": "TCP"
             }
           },
           {
-            "id": "97dcb4dee2c9003a",
+            "id": "e22eb55401cfca8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Network Layer.md",
+                "file": "Networking/Protocols/DNS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Network Layer"
+              "title": "DNS"
             }
           },
           {
-            "id": "5f24374d83fbcb7e",
+            "id": "40b7415ee4da7ea0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Programmable Networks.md",
+                "file": "Networking/The Internet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Programmable Networks"
+              "title": "The Internet"
+            }
+          },
+          {
+            "id": "756487cd5e39b89e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking/Control Plane.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Control Plane"
             }
           },
           {
@@ -233,7 +237,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "port number",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -258,7 +262,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 297.5
   },
   "right": {
     "id": "13e4b83a11522335",
@@ -366,53 +370,53 @@
   },
   "active": "43af76dd7e8106da",
   "lastOpenFiles": [
+    "Networking/Layers/Layering Networks.md",
+    "Gamedev/Godot.md",
+    "Databases/Database Types Mindmap.canvas",
+    "Networking/Protocols/TCP.md",
+    "Networking/Protocols/UDP.md",
+    "Networking/Protocols/IPv6.md",
+    "Networking/Protocols/IP.md",
+    "Networking/IP Address.md",
+    "Networking/CDN.md",
+    "Networking/NAT.md",
+    "Networking/Control Plane.md",
+    "Pasted image 20261013102851.png",
+    "Pasted image 20261013092337.png",
+    "Networking/Protocols/DNS.md",
+    "Networking/Client Server Architecture.md",
+    "Networking/The Internet.md",
+    "Networking/Subnet.md",
+    "Networking/Layers/Network Layer.md",
+    "Pasted image 20261013091842.png",
+    "Networking/Routers.md",
+    "Networking/Data Plane.md",
+    "Networking/Layers",
+    "Networking/ISP.md",
     "Production/Kubernetes.md",
     "Production/Container.md",
     "Production/Docker.md",
-    "Networking/Network Layer.md",
     "Networking/Programmable Networks.md",
     "Networking/Middlebox.md",
-    "Networking/NAT.md",
     "Networking/Firewalls.md",
-    "Networking/IP Address.md",
     "Pasted image 20261012094909.png",
-    "Networking/Protocols/IPv6.md",
-    "Networking/Protocols/DNS.md",
-    "Networking/The Internet.md",
-    "Networking/Routers.md",
     "Networking/Network Core.md",
     "Pasted image 20261012092154.png",
-    "Networking/Protocols/IP.md",
     "Web Development/Web Security.md",
-    "Networking/Network Security.md",
-    "Networking/Video Streaming.md",
-    "Networking/Peer to peer architecture.md",
-    "Networking/Protocols/HTTP.md",
-    "Networking/Protocols/QUIC.md",
-    "Networking/Protocols/HTTP3.md",
-    "Web Development/HTTP Request.md",
-    "Web Development/HTTP Response.md",
-    "Web Development/Cookie.md",
-    "Networking/Round Trip Time.md",
     "Pasted image 20261008093109.png",
     "Pasted image 20261008093037.png",
     "Pasted image 20261008093033.png",
     "Pasted image 20261006095640.png",
     "Pasted image 20261006092448.png",
-    "Pasted image 20261006092220.png",
-    "Pasted image 20261005101316.png",
-    "Pasted image 20261005100928.png",
     "Untitled.canvas",
     "Networking/Protocols",
     "Networking",
     "Frontend/React",
     "Gamedev",
     "Frontend",
-    "Databases/Database Types Mindmap.canvas",
     "Images",
     "Production",
     "System Architecture",
-    "Techniques",
-    "Programming Obsidian Vault"
+    "Techniques"
   ]
 }
