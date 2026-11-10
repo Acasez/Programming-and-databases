@@ -3,13 +3,12 @@ aliases:
   - router
   - routers
 ---
-The [[Network Layer|network layer]] of [[The Internet]] is composed of a mesh of routers
-Routers provide two key actions to send [[Packet|packets]] to their correct destination.
+The Internet's [[Network Core|network core]] is composed of a mesh of routers, that handle communication between them. Routers provide two key actions to send [[Packet|packets]] to their correct destination, by [[Network Address|network addresses]]
 
 | Name                 | Type   | Desc                                                       | Plane                      |
 | -------------------- | ------ | ---------------------------------------------------------- | -------------------------- |
-| Forwarding/Switching | Local  | Move packets from router input link to correct output link | Data                       |
-| Routing              | Global | Determining source to destination path by packets          | [[Control Plane\|Control]] |
+| Forwarding/Switching | Local  | Move packets from router input link to correct output link | [[Data Plane\|Data]]       |
+| [[Routing]]          | Global | Determining source to destination path by packets          | [[Control Plane\|Control]] |
 
 Routing is deciding the whole route, forwarding is going the correct way at each router.
 Trip planning vs intersections.

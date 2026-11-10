@@ -4,3 +4,5 @@ React is used to develop single page applications, and uses [[React Routing]] to
 
 "React files" are JavaScript XML files with the extension jsx, or tsx for TypeScript. 
 
+React is good at working with [[JSON]] files.
+

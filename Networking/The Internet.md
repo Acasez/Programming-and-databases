@@ -1,4 +1,4 @@
-The internet can be considered a *network of networks*, composed of [[Routers|routers]] sending and forwarding [[Packet|packets]]
+The internet can be considered a *network of networks*. It has a [[Network Core]], and outer layers with hosts and servers.
 
 The internet is composed *access networks* (home, mobile, instructional networks) connected to [[ISP]]s, internet service providers that are in turn connected to each other. Large corporations like google, meta and amazon have their own networks that can connect to networks and bypass ISP. 
 

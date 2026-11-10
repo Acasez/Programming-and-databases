@@ -6,7 +6,7 @@ Applications on the [[Application Layer|application layer]] sends messages to/fr
 
 Host device have an identifier, the host has a 32-bit IP-Address. Sockets also have a [[Port Number|port number]] to specify, as many processes are often running on the host server. 
 
-Sockets are the [[API]] between application layer and the [[Transport Layer|transport]] layer beneath it. 
+Sockets are the API between application layer and the [[Transport Layer|transport]] layer beneath it. 
 [[Socket Programming]] can be done with sockets to interact with the transport layer.
 
 

@@ -32,7 +32,7 @@
       "query": "path:\"Web Development\"  ",
       "color": {
         "a": 1,
-        "rgb": 2256162
+        "rgb": 208899
       }
     },
     {
@@ -85,24 +85,73 @@
       }
     },
     {
-      "query": "path:Networking/Protocols  ",
+      "query": "path:\"Networking/Application Layer\"  ",
       "color": {
         "a": 1,
-        "rgb": 11140810
+        "rgb": 15073262
       }
     },
     {
-      "query": "path:Networking/Layers  ",
+      "query": "path:\"Networking/Network Layer\"  ",
       "color": {
         "a": 1,
-        "rgb": 6084269
+        "rgb": 48510
+      }
+    },
+    {
+      "query": "path:\"Networking/Transport Layer\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14087679
+      }
+    },
+    {
+      "query": "path:\"Networking/Link Layer\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "path:\"Networking/Physical Layer\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7763599
+      }
+    },
+    {
+      "query": "path:\"Networking/Link Layer\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13355991
+      }
+    },
+    {
+      "query": "path:\"Networking/Wireless Networks\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9823486
+      }
+    },
+    {
+      "query": "path:Software  ",
+      "color": {
+        "a": 1,
+        "rgb": 3462910
+      }
+    },
+    {
+      "query": "path:\"Networking/Network Security\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9175295
       }
     },
     {
       "query": "path:Networking  ",
       "color": {
         "a": 1,
-        "rgb": 14087679
+        "rgb": 15342106
       }
     }
   ],
@@ -116,6 +165,6 @@
   "repelStrength": 14.6597199609248,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.7132754626224589,
+  "scale": 1.0000000000000409,
   "close": false
 }

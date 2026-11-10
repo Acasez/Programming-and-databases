@@ -1,0 +1,1 @@
+Google Sheets is an online [[Spreadsheet]] software. Using the Google [[API]] you can save the data into [[JSON]] files.

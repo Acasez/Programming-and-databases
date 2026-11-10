@@ -8,202 +8,199 @@
         "type": "tabs",
         "children": [
           {
+            "id": "c14347a2134c41c4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "09ba3053f5ff2774",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking/Network Security/Firewalls.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Firewalls"
+            }
+          },
+          {
+            "id": "e1b67544ae7038b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking/Network Security/Authentication.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Authentication"
+            }
+          },
+          {
+            "id": "a69fa416f817fb03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking/Network Security/IP-Sec.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IP-Sec"
+            }
+          },
+          {
+            "id": "78e3d5c75a7d7388",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking/Transport Layer/QUIC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "QUIC"
+            }
+          },
+          {
+            "id": "e05885749c7b9724",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking/Network Security/Network Security.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Network Security"
+            }
+          },
+          {
+            "id": "5e8a56e0ac9da567",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking/Transport Layer/TLS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TLS"
+            }
+          },
+          {
+            "id": "ac9541d9d58253cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking/Network Security/Cryptography.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cryptography"
+            }
+          },
+          {
+            "id": "50d475e6f2ff921a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking/Transport Layer/TLS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TLS"
+            }
+          },
+          {
+            "id": "5c24ff45005b783e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking/Network Security/Symmetric Key.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Symmetric Key"
+            }
+          },
+          {
+            "id": "1851308d766d19b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking/Network Layer/OSPF.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OSPF"
+            }
+          },
+          {
+            "id": "0e7c54048ae9f69c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking/Network Security/Cryptography.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cryptography"
+            }
+          },
+          {
+            "id": "3611f449bf3633b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking/Network Security/Network Security.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Network Security"
+            }
+          },
+          {
             "id": "43af76dd7e8106da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Layers/Link Layer.md",
+                "file": "Networking/Network Security/Message Digest.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Link Layer"
-            }
-          },
-          {
-            "id": "906716878ca9c8d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/Protocols/TCP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TCP"
-            }
-          },
-          {
-            "id": "e22eb55401cfca8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/Protocols/DNS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DNS"
-            }
-          },
-          {
-            "id": "40b7415ee4da7ea0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/The Internet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Internet"
-            }
-          },
-          {
-            "id": "756487cd5e39b89e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/Control Plane.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Control Plane"
-            }
-          },
-          {
-            "id": "02a6a578e8966b32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/Network Layer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Network Layer"
-            }
-          },
-          {
-            "id": "1e20be8897c8a82c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/Middlebox.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Middlebox"
-            }
-          },
-          {
-            "id": "45be1c2e95a09350",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/Middlebox.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Middlebox"
-            }
-          },
-          {
-            "id": "a259fa8b92962ea6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/Protocols/IPv6.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IPv6"
-            }
-          },
-          {
-            "id": "67ec8a4b0e56790f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/Protocols/IPv6.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IPv6"
-            }
-          },
-          {
-            "id": "8fd5c33372b6de35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/The Internet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Internet"
-            }
-          },
-          {
-            "id": "0fcca22c080076e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/Protocols/IPv6.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IPv6"
-            }
-          },
-          {
-            "id": "fc4684c00b7246a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/NAT.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NAT"
-            }
-          },
-          {
-            "id": "44ad9f21ee3d4136",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/Video Streaming.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Video Streaming"
+              "title": "Message Digest"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -237,7 +234,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sdn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -368,55 +365,55 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "43af76dd7e8106da",
+  "active": "09ba3053f5ff2774",
   "lastOpenFiles": [
-    "Networking/Layers/Layering Networks.md",
-    "Gamedev/Godot.md",
+    "Pasted image 20261110100730.png",
+    "Networking/Network Security/Mobile Security.md",
+    "Networking/Wireless Networks/Mobility.md",
+    "Networking/Network Security/Authentication.md",
+    "Networking/Network Security/IP-Sec.md",
+    "Networking/Application Layer/HTTP3.md",
+    "Networking/Network Security/VPN.md",
+    "Pasted image 20261110093405.png",
+    "Pasted image 20261110093056.png",
+    "Networking/Transport Layer/QUIC.md",
+    "Networking/Transport Layer/TLS.md",
+    "Networking/Network Security/Network Security.md",
+    "Networking/Network Security/Cryptography.md",
+    "Networking/Application Layer/HTTP.md",
+    "Networking/Network Security/Public Key.md",
+    "Networking/Network Security/Symmetric Key.md",
+    "Pasted image 20261110091414.png",
+    "Pasted image 20261110091252.png",
+    "Networking/Network Security/Encryption.md",
+    "Networking/Network Security/Digital Signature.md",
+    "Networking/Network Security/Message Digest.md",
+    "Networking/Network Security",
+    "Networking/Network Layer/OSPF.md",
+    "Frontend/Vitest.md",
+    "Frontend/Vite.md",
+    "Frontend/React/React.md",
+    "Production/Spreadsheet.md",
+    "Software/Google Sheets.md",
+    "Software",
+    "Networking/Network Layer/Routing.md",
+    "Databases/Databases.md",
+    "Networking/Wireless Networks/Wireless Networks.md",
+    "Pasted image 20261103102651.png",
+    "Pasted image 20261103101334.png",
+    "Pasted image 20261103100908.png",
+    "Pasted image 20261103094447.png",
+    "Pasted image 20261103093547.png",
+    "Networking/Wireless Networks",
+    "Pasted image 20261103092251.png",
+    "Networking/Link Layer",
+    "Networking/Physical Layer",
+    "Networking/Transport Layer",
+    "Networking/Application Layer",
+    "Networking/Network Layer",
     "Databases/Database Types Mindmap.canvas",
-    "Networking/Protocols/TCP.md",
-    "Networking/Protocols/UDP.md",
-    "Networking/Protocols/IPv6.md",
-    "Networking/Protocols/IP.md",
-    "Networking/IP Address.md",
-    "Networking/CDN.md",
-    "Networking/NAT.md",
-    "Networking/Control Plane.md",
-    "Pasted image 20261013102851.png",
-    "Pasted image 20261013092337.png",
-    "Networking/Protocols/DNS.md",
-    "Networking/Client Server Architecture.md",
-    "Networking/The Internet.md",
-    "Networking/Subnet.md",
-    "Networking/Layers/Network Layer.md",
-    "Pasted image 20261013091842.png",
-    "Networking/Routers.md",
-    "Networking/Data Plane.md",
     "Networking/Layers",
-    "Networking/ISP.md",
-    "Production/Kubernetes.md",
-    "Production/Container.md",
-    "Production/Docker.md",
-    "Networking/Programmable Networks.md",
-    "Networking/Middlebox.md",
-    "Networking/Firewalls.md",
-    "Pasted image 20261012094909.png",
-    "Networking/Network Core.md",
-    "Pasted image 20261012092154.png",
-    "Web Development/Web Security.md",
-    "Pasted image 20261008093109.png",
-    "Pasted image 20261008093037.png",
-    "Pasted image 20261008093033.png",
-    "Pasted image 20261006095640.png",
-    "Pasted image 20261006092448.png",
     "Untitled.canvas",
-    "Networking/Protocols",
-    "Networking",
-    "Frontend/React",
-    "Gamedev",
-    "Frontend",
-    "Images",
-    "Production",
-    "System Architecture",
-    "Techniques"
+    "Networking/Protocols"
   ]
 }
